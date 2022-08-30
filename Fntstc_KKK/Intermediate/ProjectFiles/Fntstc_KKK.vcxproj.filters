@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Fntstc_KKK.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{1D8BF2DB-26FA-4002-8B37-2B810A98364B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Fntstc_KKK.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Fntstc_KKKEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F76C5436-0675-47B4-B5E0-D478F2531959}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Fntstc_KKK">
+      <UniqueIdentifier>{4E11D6C2-2C4F-4C31-A6D3-F76C710C7CF4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Fntstc_KKK\Fntstc_KKK.Build.cs">
+      <Filter>Source\Fntstc_KKK</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Fntstc_KKK\Fntstc_KKK.cpp">
+      <Filter>Source\Fntstc_KKK</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fntstc_KKK\Fntstc_KKK.h">
+      <Filter>Source\Fntstc_KKK</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Fntstc_KKK\Fntstc_KKKCharacter.cpp">
+      <Filter>Source\Fntstc_KKK</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fntstc_KKK\Fntstc_KKKCharacter.h">
+      <Filter>Source\Fntstc_KKK</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Fntstc_KKK\Fntstc_KKKGameMode.cpp">
+      <Filter>Source\Fntstc_KKK</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fntstc_KKK\Fntstc_KKKGameMode.h">
+      <Filter>Source\Fntstc_KKK</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

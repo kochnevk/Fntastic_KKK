@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Fntstc_KKK",
+			"Path": "C:\\Users\\drago\\Documents\\Unreal Projects\\Fntstc_KKK\\Source\\Fntstc_KKK.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Fntstc_KKKEditor",
+			"Path": "C:\\Users\\drago\\Documents\\Unreal Projects\\Fntstc_KKK\\Source\\Fntstc_KKKEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

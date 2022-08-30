@@ -1,0 +1,3 @@
+C:\Users\drago\Documents\Unreal Projects\Fntstc_KKK\Intermediate\Build\Win64\UE4Editor\Development\Fntstc_KKK\Definitions.Fntstc_KKK.h
+C:\Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

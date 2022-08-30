@@ -1,0 +1,2 @@
+C:\Users\drago\Documents\Unreal Projects\Fntstc_KKK\Intermediate\Build\Win64\UE4Editor\Development\Fntstc_KKK\Definitions.Fntstc_KKK.h
+C:\Users\drago\Documents\Unreal Projects\Fntstc_KKK\Source\Fntstc_KKK\Fntstc_KKK.h
