@@ -1,12 +1,12 @@
-C:\Users\drago\Documents\Unreal Projects\Fntstc_KKK\Intermediate\Build\Win64\UE4Editor\Development\Fntstc_KKK\Definitions.Fntstc_KKK.h
-C:\Users\drago\Documents\Unreal Projects\Fntstc_KKK\Source\Fntstc_KKK\Fntstc_KKKCharacter.h
+C:\Users\drago\Documents\Unreal Projects\Fntastic_KKK\Fntstc_KKK\Intermediate\Build\Win64\UE4Editor\Development\Fntstc_KKK\Definitions.Fntstc_KKK.h
+C:\Users\drago\Documents\Unreal Projects\Fntastic_KKK\Fntstc_KKK\Source\Fntstc_KKK\Fntstc_KKKCharacter.h
 C:\Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
 C:\Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
 C:\Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
 C:\Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
 C:\Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
 C:\Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
-C:\Users\drago\Documents\Unreal Projects\Fntstc_KKK\Intermediate\Build\Win64\UE4Editor\Inc\Fntstc_KKK\Fntstc_KKKCharacter.generated.h
+C:\Users\drago\Documents\Unreal Projects\Fntastic_KKK\Fntstc_KKK\Intermediate\Build\Win64\UE4Editor\Inc\Fntstc_KKK\Fntstc_KKKCharacter.generated.h
 C:\Games\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayFunctionLibrary.h
 C:\Games\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\HeadMountedDisplayTypes.h
 C:\Games\UE_4.26\Engine\Source\Runtime\HeadMountedDisplay\Public\IMotionController.h

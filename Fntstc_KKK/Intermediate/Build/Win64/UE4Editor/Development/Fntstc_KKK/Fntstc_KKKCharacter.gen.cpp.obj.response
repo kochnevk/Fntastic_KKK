@@ -31,8 +31,8 @@
 /wd4244
 /wd4838
 /I .
-/I "C:\Users\drago\Documents\Unreal Projects\Fntstc_KKK\Intermediate\Build\Win64\UE4Editor\Inc\Fntstc_KKK"
-/I "C:\Users\drago\Documents\Unreal Projects\Fntstc_KKK\Source"
+/I "C:\Users\drago\Documents\Unreal Projects\Fntastic_KKK\Fntstc_KKK\Intermediate\Build\Win64\UE4Editor\Inc\Fntstc_KKK"
+/I "C:\Users\drago\Documents\Unreal Projects\Fntastic_KKK\Fntstc_KKK\Source"
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -265,12 +265,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\Users\drago\Documents\Unreal Projects\Fntstc_KKK\Intermediate\Build\Win64\Fntstc_KKKEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\drago\Documents\Unreal Projects\Fntstc_KKK\Intermediate\Build\Win64\Fntstc_KKKEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\drago\Documents\Unreal Projects\Fntstc_KKK\Intermediate\Build\Win64\Fntstc_KKKEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\drago\Documents\Unreal Projects\Fntstc_KKK\Intermediate\Build\Win64\UE4Editor\Inc\Fntstc_KKK\Fntstc_KKKCharacter.gen.cpp"
-/FI"C:\Users\drago\Documents\Unreal Projects\Fntstc_KKK\Intermediate\Build\Win64\UE4Editor\Development\Fntstc_KKK\Definitions.Fntstc_KKK.h"
-/Fo"C:\Users\drago\Documents\Unreal Projects\Fntstc_KKK\Intermediate\Build\Win64\UE4Editor\Development\Fntstc_KKK\Fntstc_KKKCharacter.gen.cpp.obj"
+/FI"C:\Users\drago\Documents\Unreal Projects\Fntastic_KKK\Fntstc_KKK\Intermediate\Build\Win64\Fntstc_KKKEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\drago\Documents\Unreal Projects\Fntastic_KKK\Fntstc_KKK\Intermediate\Build\Win64\Fntstc_KKKEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\drago\Documents\Unreal Projects\Fntastic_KKK\Fntstc_KKK\Intermediate\Build\Win64\Fntstc_KKKEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\drago\Documents\Unreal Projects\Fntastic_KKK\Fntstc_KKK\Intermediate\Build\Win64\UE4Editor\Inc\Fntstc_KKK\Fntstc_KKKCharacter.gen.cpp"
+/FI"C:\Users\drago\Documents\Unreal Projects\Fntastic_KKK\Fntstc_KKK\Intermediate\Build\Win64\UE4Editor\Development\Fntstc_KKK\Definitions.Fntstc_KKK.h"
+/Fo"C:\Users\drago\Documents\Unreal Projects\Fntastic_KKK\Fntstc_KKK\Intermediate\Build\Win64\UE4Editor\Development\Fntstc_KKK\Fntstc_KKKCharacter.gen.cpp.obj"
 /TP
 /GR-
 /W4
